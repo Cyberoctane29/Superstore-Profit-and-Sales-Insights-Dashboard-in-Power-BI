@@ -109,6 +109,6 @@ This rich dataset provides the foundation for the **Superstore Sales & Profit In
 * Engineered **advanced interactive features**, including dynamic DAX-driven titles, cascading slicers, drill-through navigation, and a bookmark-based toggle for "Top 10 vs. Bottom 10" state comparisons.  
 * Uncovered **critical business insights**, such as quarterly profit seasonality, unprofitable sub-categories masked by strong sales, and hidden state-level disparities within profitable regions.  
 * Implemented a **clean, user-centric design** with whitespace emphasis, a pastel-blue palette, and contextual tooltips to ensure clarity, accessibility, and a professional user experience.  
-* Delivered a **scalable, end-to-end analytical solution** — from Power Query data modeling to a polished report that empowers stakeholders to explore data, diagnose performance gaps, and make data-driven decisions.  
+* Delivered a **scalable, end-to-end analytical solution** from Power Query data modeling to a polished report that empowers stakeholders to explore data, diagnose performance gaps, and make data-driven decisions.  
 
 This project showcases how Power BI can transform a standard Superstore dataset into a **dynamic, story-driven business intelligence solution**, bridging strategic and operational decision-making with actionable insights.
