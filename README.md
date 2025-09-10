@@ -80,14 +80,35 @@ This rich dataset provides the foundation for the **Superstore Sales & Profit In
 
 ## **Dashboard Previews**  
 
-### Superstore Profit Dashboard
+### Superstore Profit and Sales Dashboard
 <img width="3434" height="1976" alt="Image" src="https://github.com/user-attachments/assets/a55e976b-8dc9-476b-b62d-13c8f25183cb" />
 
-### Finance Dashboard
+### Drill-Through: Sub-Category Details (View 1 - Top 10 States) 
 <img width="3434" height="1976" alt="Image" src="https://github.com/user-attachments/assets/44d24e49-ac52-4e31-8fb0-bf2a0d2042f0" />
 
-### Orders Management Dashboard
+### Drill-Through: Sub-Category Details (View 2 - Bottom 10 States) 
 <img width="3434" height="1976" alt="Image" src="https://github.com/user-attachments/assets/b8d8f0f7-738f-4c3c-ac21-e6fd9d34e332" />
 
+## **Key Insights**
 
+### **Profitability & Product Performance**
+* **Overall Profit Margin**: The business operates on an approximate 12.5% profit margin, with `$2.3M` in sales generating `$286.35K` in profit, indicating a need to focus on high-margin products.
+* **Sales vs. Profit Discrepancy**: Several sub-categories, notably **Tables** (`$0.21M` sales), **Bookcases** (`$0.11M` sales), and **Supplies** (`$0.05M` sales), were identified as unprofitable despite generating significant revenue. This highlights a critical disconnect between sales volume and bottom-line contribution.
+* **Category-Level Weakness**: The entire **Furniture** category is a major area of concern, contributing only 6.44% of total profit, largely due to the heavy losses from Tables and Bookcases.
+* **Key Profit Drivers**: **Copiers** and **Phones** were identified as the most profitable sub-categories, with Copiers being particularly efficient, generating `$56K` in profit from relatively moderate sales.
 
+### **Geographical & Seasonal Trends**
+* **Regional Disparities**: Performance is not uniform across the country. The **West** is the most profitable region, contributing 37.87% of the total profit, while the **Central** region is the weakest performer at only 13.83%.
+* **State-Level Granularity**: The drill-through feature reveals critical state-level insights. For the highly profitable "Phones" sub-category, success is heavily concentrated in states like **New York** (`$13.4K` profit), while significant losses are incurred in others like **Pennsylvania** (`-$3.6K`) and **Ohio** (`-$2.8K`).
+* **Seasonal Profit Peaks**: The time-series analysis shows a clear and consistent seasonal trend, with profits peaking in the fourth quarter (Q4) of each year. This pattern is crucial for inventory planning, marketing campaigns, and sales forecasting.
+
+## **Project Highlights**
+
+* Developed a **two-page interactive Power BI report** (Summary Dashboard & Drill-Through) to provide both high-level executive overviews and granular sub-category insights.  
+* Conducted a **comparative analysis of Sales vs. Profitability**, using side-by-side visuals and conditional formatting to highlight high-revenue but unprofitable product lines (e.g., Tables).  
+* Engineered **advanced interactive features**, including dynamic DAX-driven titles, cascading slicers, drill-through navigation, and a bookmark-based toggle for "Top 10 vs. Bottom 10" state comparisons.  
+* Uncovered **critical business insights**, such as quarterly profit seasonality, unprofitable sub-categories masked by strong sales, and hidden state-level disparities within profitable regions.  
+* Implemented a **clean, user-centric design** with whitespace emphasis, a pastel-blue palette, and contextual tooltips to ensure clarity, accessibility, and a professional user experience.  
+* Delivered a **scalable, end-to-end analytical solution** — from Power Query data modeling to a polished report that empowers stakeholders to explore data, diagnose performance gaps, and make data-driven decisions.  
+
+This project showcases how Power BI can transform a standard Superstore dataset into a **dynamic, story-driven business intelligence solution**, bridging strategic and operational decision-making with actionable insights.
