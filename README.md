@@ -11,6 +11,8 @@ If you’d like to directly explore the interactive dashboards and project files
 
 [Google Drive link](https://drive.google.com/drive/folders/11AKkFq23TPwhmNALWlp_FA7vUWmqxRuS) : https://drive.google.com/drive/folders/11AKkFq23TPwhmNALWlp_FA7vUWmqxRuS
 
+[Interactive dashboard video walkthrough](https://drive.google.com/file/d/1W56o1b3vuZuJJCv3ShkRUR73nW17-icQ/view?usp=sharing): https://drive.google.com/file/d/1W56o1b3vuZuJJCv3ShkRUR73nW17-icQ/view?usp=sharing
+
 For the complete project details, including dataset context, analysis workflow, and documented insights, continue with this repository.
 
 ## **Project Overview**
