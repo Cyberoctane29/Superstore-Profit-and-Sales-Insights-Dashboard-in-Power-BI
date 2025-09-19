@@ -62,16 +62,14 @@ This rich dataset provides the foundation for the **Superstore Sales & Profit In
 - **Data Preparation & Modeling**  
   - Cleaned and transformed the Superstore dataset using Power Query to ensure consistency and accuracy.  
   - Structured a star-schema style model across Orders, Customers, Products, and Geography to optimize analysis.  
-  - Built explicit DAX measures for Sales, Profit, and Quantity, alongside advanced measures like dynamic titles for contextual drill-through pages.  
-
-- **Feature Engineering with DAX**  
-  - Developed Top N / Bottom N state analysis powered by DAX variables, bookmarks, and toggles.  
-  - Implemented conditional formatting in visuals to automatically highlight loss-making sub-categories and states.
-
+  - Built explicit DAX measures for Sales, Profit, and Quantity, alongside advanced measures like dynamic titles for contextual drill-through pages.
+  
 - **Dashboard Design & Interactivity**  
   - Designed a two-page Power BI report: a summary dashboard with KPIs, trends, and comparative charts, and a drill-through page for deep-dive sub-category insights.  
   - Configured cascading slicers (Region → State) with a one-click reset option using bookmarks.  
-  - Adopted a minimalist, whitespace-oriented layout with a consistent pastel-blue palette to ensure clarity and accessibility.  
+  - Adopted a minimalist, whitespace-oriented layout with a consistent pastel-blue palette to ensure clarity and accessibility.
+  - Developed Top N / Bottom N state analysis powered by DAX variables, bookmarks, and toggles.  
+  - Implemented conditional formatting in visuals to automatically highlight loss-making sub-categories and states.
 
 - **Insight Generation & Storytelling**  
   - Identified high-revenue but unprofitable sub-categories (e.g., Tables) for strategic review.  
