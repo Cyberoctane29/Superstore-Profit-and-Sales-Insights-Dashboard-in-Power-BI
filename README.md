@@ -66,8 +66,7 @@ This rich dataset provides the foundation for the **Superstore Sales & Profit In
 
 - **Feature Engineering with DAX**  
   - Developed Top N / Bottom N state analysis powered by DAX variables, bookmarks, and toggles.  
-  - Implemented conditional formatting in visuals to automatically highlight loss-making sub-categories and states.  
-  - Created interactive features such as a “smart” drill-through button that activates only when a sub-category is selected.  
+  - Implemented conditional formatting in visuals to automatically highlight loss-making sub-categories and states.
 
 - **Dashboard Design & Interactivity**  
   - Designed a two-page Power BI report: a summary dashboard with KPIs, trends, and comparative charts, and a drill-through page for deep-dive sub-category insights.  
